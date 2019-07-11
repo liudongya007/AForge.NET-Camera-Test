@@ -1,0 +1,1 @@
+# AForge.NET-Camera-Test
